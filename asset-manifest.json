@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/ADIKO-dot/my-react-learn-portfolio/static/css/main.8dc2d5c1.chunk.css",
+    "main.js": "/ADIKO-dot/my-react-learn-portfolio/static/js/main.3f76ca80.chunk.js",
+    "main.js.map": "/ADIKO-dot/my-react-learn-portfolio/static/js/main.3f76ca80.chunk.js.map",
+    "runtime-main.js": "/ADIKO-dot/my-react-learn-portfolio/static/js/runtime-main.daf7ab98.js",
+    "runtime-main.js.map": "/ADIKO-dot/my-react-learn-portfolio/static/js/runtime-main.daf7ab98.js.map",
+    "static/css/2.fabbef47.chunk.css": "/ADIKO-dot/my-react-learn-portfolio/static/css/2.fabbef47.chunk.css",
+    "static/js/2.e1f9f53a.chunk.js": "/ADIKO-dot/my-react-learn-portfolio/static/js/2.e1f9f53a.chunk.js",
+    "static/js/2.e1f9f53a.chunk.js.map": "/ADIKO-dot/my-react-learn-portfolio/static/js/2.e1f9f53a.chunk.js.map",
+    "static/js/3.4280d554.chunk.js": "/ADIKO-dot/my-react-learn-portfolio/static/js/3.4280d554.chunk.js",
+    "static/js/3.4280d554.chunk.js.map": "/ADIKO-dot/my-react-learn-portfolio/static/js/3.4280d554.chunk.js.map",
+    "index.html": "/ADIKO-dot/my-react-learn-portfolio/index.html",
+    "static/css/2.fabbef47.chunk.css.map": "/ADIKO-dot/my-react-learn-portfolio/static/css/2.fabbef47.chunk.css.map",
+    "static/css/main.8dc2d5c1.chunk.css.map": "/ADIKO-dot/my-react-learn-portfolio/static/css/main.8dc2d5c1.chunk.css.map",
+    "static/js/2.e1f9f53a.chunk.js.LICENSE.txt": "/ADIKO-dot/my-react-learn-portfolio/static/js/2.e1f9f53a.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/ADIKO-dot/my-react-learn-portfolio/static/media/bg.54815803.png",
+    "static/media/imag.56cfc8ad.jpg": "/ADIKO-dot/my-react-learn-portfolio/static/media/imag.56cfc8ad.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.daf7ab98.js",
+    "static/css/2.fabbef47.chunk.css",
+    "static/js/2.e1f9f53a.chunk.js",
+    "static/css/main.8dc2d5c1.chunk.css",
+    "static/js/main.3f76ca80.chunk.js"
+  ]
+}
